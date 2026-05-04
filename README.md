@@ -88,6 +88,9 @@ HTML5, CSS3 (Flexbox, Grid), БЭМ-методология, Bootstrap 4 (опц�
 ## Vanilla JavaScript (Canvas API)
 - **[Обрезка фото](https://kaymka.github.io/photo-crop-app/)** — CropperJS, Canvas API, FileReader, ограничение размера файла (300 Кб), адаптивный дизайн, GitHub Pages
 
+## TypeScript (Jest)
+- **[Booking App](https://kaymka.github.io/booking-app/)** — валидация дат и городов, TypeScript, Vite, **Jest (30+ unit-тестов)**, маска ввода, адаптивный дизайн
+
 ## React + TypeScript
 - **To-do лист** — категории, фильтрация, localStorage
 - **Виджет погоды** — OpenWeather API, async/await, обработка ошибок
