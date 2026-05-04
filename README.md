@@ -82,6 +82,9 @@
 ## 🛠 Технологии
 HTML5, CSS3 (Flexbox, Grid), БЭМ-методология, Bootstrap 4 (опционально), Медиазапросы, Валидные HTML-формы
 
+### Vanilla JavaScript (Fullstack)
+- **[To-do лист с сервером](https://kaymka.github.io/todo-app/index.html)** — JSON Server (REST API), fetch, async/await, деплой бэкенда на Render, фронтенда на GitHub Pages
+
 ### React + TypeScript
 - **To-do лист** — категории, фильтрация, localStorage
 - **Виджет погоды** — OpenWeather API, async/await, обработка ошибок
