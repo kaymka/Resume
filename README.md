@@ -63,10 +63,10 @@
 
 ## 🚀 Проекты
 
-# [Lionic](https://kaymka.github.io/Lionic/) — Корпоративный лендинг
-# [Lagoona](https://kaymka.github.io/Lagoona/) — Лендинг Отеля
+## [Lionic](https://kaymka.github.io/Lionic/) — Корпоративный лендинг
+## [Lagoona](https://kaymka.github.io/Lagoona/) — Лендинг Отеля
 
-## 🚀 Ключевые особенности
+### 🚀 Ключевые особенности
 
 | Особенность | Описание |
 |-------------|----------|
@@ -79,26 +79,26 @@
 | **Плавные анимации** | Transition для всех интерактивных элементов |
 | **Pixel Perfect** | Точное соответствие макету |
 
-## 🛠 Технологии
+### 🛠 Технологии
 HTML5, CSS3 (Flexbox, Grid), БЭМ-методология, Bootstrap 4 (опционально), Медиазапросы, Валидные HTML-формы
 
-### Vanilla JavaScript (Fullstack)
+## Vanilla JavaScript (Fullstack)
 - **[To-do лист с сервером](https://kaymka.github.io/todo-app/index.html)** — JSON Server (REST API), fetch, async/await, деплой бэкенда на Render, фронтенда на GitHub Pages
 
-### Vanilla JavaScript (Canvas API)
-- **Обрезка фото** — CropperJS, Canvas API, FileReader, ограничение размера файла (300 Кб), адаптивный дизайн, GitHub Pages
+## Vanilla JavaScript (Canvas API)
+- **[Обрезка фото](https://kaymka.github.io/photo-crop-app/)** — CropperJS, Canvas API, FileReader, ограничение размера файла (300 Кб), адаптивный дизайн, GitHub Pages
 
-### React + TypeScript
+## React + TypeScript
 - **To-do лист** — категории, фильтрация, localStorage
 - **Виджет погоды** — OpenWeather API, async/await, обработка ошибок
 - **Калькулятор с историей** — useMemo, чистое управление состоянием
 
-### Лендинги (продвинутая верстка)
+## Лендинги (продвинутая верстка)
 - [RAYWAKE](https://kaymka.github.io/RAYWAKE/) — адаптив, анимация цифр, карусель, валидация формы
 - [NERO](https://kaymka.github.io/Nero/) — кастомный курсор, горизонтальный скролл, параллакс
 - [NEBULA STUDIO](https://kaymka.github.io/NEBULA/) — анимированный фон, морфинг фигур, фильтрация портфолио
 
-### Бэкенд (учебные)
+## Бэкенд (учебные)
 - Форма обратной связи на PHP с валидацией и отправкой email
 - Система авторизации с сессиями
 - Мини-блог с подключением к MySQL
