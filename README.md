@@ -53,8 +53,9 @@
 
 ## 🚀 Проекты
 
-## [Lionic](https://kaymka.github.io/Lionic/) — Корпоративный лендинг
-## [Lagoona](https://kaymka.github.io/Lagoona/) — Лендинг Отеля
+## Лендинги (продвинутая верстка)
+-  [Lionic](https://kaymka.github.io/Lionic/) — Корпоративный лендинг
+-  [Lagoona](https://kaymka.github.io/Lagoona/) — Лендинг Отеля
 
 ### 🚀 Ключевые особенности
 
