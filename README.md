@@ -89,7 +89,7 @@ HTML5, CSS3 (Flexbox, Grid), БЭМ-методология, Bootstrap 4 (опц�
 - **Виджет погоды** — OpenWeather API, async/await, обработка ошибок
 - **Калькулятор с историей** — useMemo, чистое управление состоянием
 
-## Лендинги (продвинутая верстка)
+## Лендинги
 - [RAYWAKE](https://kaymka.github.io/RAYWAKE/) — адаптив, анимация цифр, карусель, валидация формы
 - [NERO](https://kaymka.github.io/Nero/) — кастомный курсор, горизонтальный скролл, параллакс
 - [NEBULA STUDIO](https://kaymka.github.io/NEBULA/) — анимированный фон, морфинг фигур, фильтрация портфолио
