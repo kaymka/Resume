@@ -91,7 +91,9 @@ HTML5, CSS3 (Flexbox, Grid), БЭМ-методология, Bootstrap 4 (опц�
 ## TypeScript (Jest)
 - **[Booking App](https://kaymka.github.io/booking-app/)** — валидация дат и городов, TypeScript, Vite, **Jest (30+ unit-тестов)**, маска ввода, адаптивный дизайн
 
-## React + TypeScript
+## React + TypeScript (CRUD + localStorage)
+- **[Dictionary App](https://kaymka.github.io/Dictionary-app/)** — приложение-словарь, управление терминами (добавление/удаление), автocортировка по алфавиту,
+сохранение данных в localStorage, компонентная архитектура
 - **To-do лист** — категории, фильтрация, localStorage
 - **Виджет погоды** — OpenWeather API, async/await, обработка ошибок
 - **Калькулятор с историей** — useMemo, чистое управление состоянием
